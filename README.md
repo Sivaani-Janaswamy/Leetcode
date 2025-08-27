@@ -5,3 +5,5 @@
 **My Leetcode Journey:**<br><br>
 ![LeetCode Heatmap](https://leetcard.jacoblin.cool/Sivaani_Janaswamy?theme=dark&font=syne&ext=heatmap)
 
+<!-- START_TABLE -->
+<!-- END_TABLE -->
