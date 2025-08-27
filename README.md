@@ -7,6 +7,6 @@
 
 <!-- START_TABLE -->
 | # | Problem | Solution |
-|---|----------|----------|
-
+|---:|---|---|
+|  | No problems found matching `^<number>-<name>.<ext>` |  |
 <!-- END_TABLE -->
