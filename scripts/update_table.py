@@ -1,32 +1,34 @@
 import os
 import re
 
-# Root directory where problems are stored
 ROOT_DIR = "."
 
 def extract_problem_info(filename):
-    match = re.match(r"(\d+)-([A-Za-z0-9]+)-(Easy|Medium|Hard)", filename)
+    # Match filenames like 1-two-sum.java OR 2_add_two_numbers.py
+    match = re.match(r"(\d+)[-_](.+)\.(java|py|cpp)$", filename)
     if match:
-        num, name, diff = match.groups()
-        # Convert CamelCase/NoSpaces → Proper Spacing
-        name = re.sub(r"([a-z])([A-Z])", r"\1 \2", name)
-        name = name.replace("-", " ")
-        return int(num), name, diff
+        num, raw_name, _ = match.groups()
+        # Convert to proper spacing + capitalization
+        name = raw_name.replace("-", " ").replace("_", " ").title()
+        return int(num), name
     return None
 
 def collect_problems():
     problems = []
     for root, _, files in os.walk(ROOT_DIR):
         for file in files:
-            if re.match(r"\d+-.*-(Easy|Medium|Hard)\..*", file):
+            if re.match(r"\d+[-_].*\.(java|py|cpp)$", file):
                 info = extract_problem_info(file)
                 if info:
                     problems.append(info)
     return sorted(problems, key=lambda x: x[0])
 
 def generate_table(problems):
-    header = "| # | Problem | Difficulty |\n|---|----------|-------------|\n"
-    rows = [f"| {num} | {title} | {diff} |" for num, title, diff in problems]
+    header = "| # | Problem | Solution |\n|---|----------|----------|\n"
+    rows = [f"| {num} | {title} | [{title}]({file}) |" 
+            for num, title in problems 
+            for file in os.listdir(ROOT_DIR) 
+            if file.startswith(str(num))]  # link the correct file
     return header + "\n".join(rows)
 
 def update_readme(problems):
