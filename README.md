@@ -6,7 +6,7 @@
 ![LeetCode Heatmap](https://leetcard.jacoblin.cool/Sivaani_Janaswamy?theme=dark&font=syne&ext=heatmap)
 
 <!-- START_TABLE -->
-| # | Problem | Difficulty |
-|---|----------|-------------|
+| # | Problem | Solution |
+|---|----------|----------|
 
 <!-- END_TABLE -->
