@@ -5,12 +5,12 @@ import re
 ROOT_DIR = "."
 
 def extract_problem_info(filename):
-    match = re.match(r"(\d+)_([A-Za-z0-9]+)_(Easy|Medium|Hard)", filename)
+    match = re.match(r"(\d+)-([A-Za-z0-9]+)-(Easy|Medium|Hard)", filename)
     if match:
         num, name, diff = match.groups()
         # Convert CamelCase/NoSpaces → Proper Spacing
         name = re.sub(r"([a-z])([A-Z])", r"\1 \2", name)
-        name = name.replace("_", " ")
+        name = name.replace("-", " ")
         return int(num), name, diff
     return None
 
@@ -18,7 +18,7 @@ def collect_problems():
     problems = []
     for root, _, files in os.walk(ROOT_DIR):
         for file in files:
-            if re.match(r"\d+_.*_(Easy|Medium|Hard)\..*", file):
+            if re.match(r"\d+-.*-(Easy|Medium|Hard)\..*", file):
                 info = extract_problem_info(file)
                 if info:
                     problems.append(info)
