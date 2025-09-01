@@ -14,6 +14,7 @@
 | 217 | 217-contains-duplicate | [217-contains-duplicate](217-contains-duplicate) |
 | 268 | 268-missing-number | [268-missing-number](268-missing-number) |
 | 344 | 344-reverse-string | [344-reverse-string](344-reverse-string) |
+| 345 | 345-reverse-vowels-of-a-string | [345-reverse-vowels-of-a-string](345-reverse-vowels-of-a-string) |
 | 448 | 448-find-all-numbers-disappeared-in-an-array | [448-find-all-numbers-disappeared-in-an-array](448-find-all-numbers-disappeared-in-an-array) |
 | 1395 | 1395-minimum-time-visiting-all-points | [1395-minimum-time-visiting-all-points](1395-minimum-time-visiting-all-points) |
 | 1482 | 1482-how-many-numbers-are-smaller-than-the-current-number | [1482-how-many-numbers-are-smaller-than-the-current-number](1482-how-many-numbers-are-smaller-than-the-current-number) |
