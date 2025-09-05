@@ -12,6 +12,7 @@
 | 20 | 20-valid-parentheses | [20-valid-parentheses](20-valid-parentheses) |
 | 54 | 54-spiral-matrix | [54-spiral-matrix](54-spiral-matrix) |
 | 217 | 217-contains-duplicate | [217-contains-duplicate](217-contains-duplicate) |
+| 225 | 225-implement-stack-using-queues | [225-implement-stack-using-queues](225-implement-stack-using-queues) |
 | 268 | 268-missing-number | [268-missing-number](268-missing-number) |
 | 344 | 344-reverse-string | [344-reverse-string](344-reverse-string) |
 | 345 | 345-reverse-vowels-of-a-string | [345-reverse-vowels-of-a-string](345-reverse-vowels-of-a-string) |
