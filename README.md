@@ -11,6 +11,7 @@
 | 1 | 1-two-sum | [1-two-sum](1-two-sum) |
 | 14 | 14-longest-common-prefix | [14-longest-common-prefix](14-longest-common-prefix) |
 | 20 | 20-valid-parentheses | [20-valid-parentheses](20-valid-parentheses) |
+| 26 | 26-remove-duplicates-from-sorted-array | [26-remove-duplicates-from-sorted-array](26-remove-duplicates-from-sorted-array) |
 | 54 | 54-spiral-matrix | [54-spiral-matrix](54-spiral-matrix) |
 | 101 | 101-symmetric-tree | [101-symmetric-tree](101-symmetric-tree) |
 | 104 | 104-maximum-depth-of-binary-tree | [104-maximum-depth-of-binary-tree](104-maximum-depth-of-binary-tree) |
