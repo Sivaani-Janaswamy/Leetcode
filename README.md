@@ -9,6 +9,7 @@
 | # | Problem | Solution |
 |---|----------|----------|
 | 1 | 1-two-sum | [1-two-sum](1-two-sum) |
+| 14 | 14-longest-common-prefix | [14-longest-common-prefix](14-longest-common-prefix) |
 | 20 | 20-valid-parentheses | [20-valid-parentheses](20-valid-parentheses) |
 | 54 | 54-spiral-matrix | [54-spiral-matrix](54-spiral-matrix) |
 | 101 | 101-symmetric-tree | [101-symmetric-tree](101-symmetric-tree) |
