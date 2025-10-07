@@ -15,6 +15,7 @@
 | 27 | 27-remove-element | [27-remove-element](27-remove-element) |
 | 35 | 35-search-insert-position | [35-search-insert-position](35-search-insert-position) |
 | 54 | 54-spiral-matrix | [54-spiral-matrix](54-spiral-matrix) |
+| 58 | 58-length-of-last-word | [58-length-of-last-word](58-length-of-last-word) |
 | 101 | 101-symmetric-tree | [101-symmetric-tree](101-symmetric-tree) |
 | 104 | 104-maximum-depth-of-binary-tree | [104-maximum-depth-of-binary-tree](104-maximum-depth-of-binary-tree) |
 | 150 | 150-evaluate-reverse-polish-notation | [150-evaluate-reverse-polish-notation](150-evaluate-reverse-polish-notation) |
