@@ -18,6 +18,7 @@
 | 58 | 58-length-of-last-word | [58-length-of-last-word](58-length-of-last-word) |
 | 66 | 66-plus-one | [66-plus-one](66-plus-one) |
 | 67 | 67-add-binary | [67-add-binary](67-add-binary) |
+| 84 | 84-largest-rectangle-in-histogram | [84-largest-rectangle-in-histogram](84-largest-rectangle-in-histogram) |
 | 101 | 101-symmetric-tree | [101-symmetric-tree](101-symmetric-tree) |
 | 104 | 104-maximum-depth-of-binary-tree | [104-maximum-depth-of-binary-tree](104-maximum-depth-of-binary-tree) |
 | 150 | 150-evaluate-reverse-polish-notation | [150-evaluate-reverse-polish-notation](150-evaluate-reverse-polish-notation) |
