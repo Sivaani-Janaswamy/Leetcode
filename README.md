@@ -36,6 +36,7 @@
 | 345 | 345-reverse-vowels-of-a-string | [345-reverse-vowels-of-a-string](345-reverse-vowels-of-a-string) |
 | 448 | 448-find-all-numbers-disappeared-in-an-array | [448-find-all-numbers-disappeared-in-an-array](448-find-all-numbers-disappeared-in-an-array) |
 | 682 | 682-baseball-game | [682-baseball-game](682-baseball-game) |
+| 739 | 739-daily-temperatures | [739-daily-temperatures](739-daily-temperatures) |
 | 860 | 860-design-circular-queue | [860-design-circular-queue](860-design-circular-queue) |
 | 1128 | 1128-remove-all-adjacent-duplicates-in-string | [1128-remove-all-adjacent-duplicates-in-string](1128-remove-all-adjacent-duplicates-in-string) |
 | 1395 | 1395-minimum-time-visiting-all-points | [1395-minimum-time-visiting-all-points](1395-minimum-time-visiting-all-points) |
