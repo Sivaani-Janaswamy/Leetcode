@@ -40,6 +40,7 @@
 | 682 | 682-baseball-game | [682-baseball-game](682-baseball-game) |
 | 739 | 739-daily-temperatures | [739-daily-temperatures](739-daily-temperatures) |
 | 860 | 860-design-circular-queue | [860-design-circular-queue](860-design-circular-queue) |
+| 908 | 908-middle-of-the-linked-list | [908-middle-of-the-linked-list](908-middle-of-the-linked-list) |
 | 969 | 969-number-of-recent-calls | [969-number-of-recent-calls](969-number-of-recent-calls) |
 | 1128 | 1128-remove-all-adjacent-duplicates-in-string | [1128-remove-all-adjacent-duplicates-in-string](1128-remove-all-adjacent-duplicates-in-string) |
 | 1395 | 1395-minimum-time-visiting-all-points | [1395-minimum-time-visiting-all-points](1395-minimum-time-visiting-all-points) |
