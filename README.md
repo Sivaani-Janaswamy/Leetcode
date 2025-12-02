@@ -20,6 +20,7 @@
 | 67 | 67-add-binary | [67-add-binary](67-add-binary) |
 | 69 | 69-sqrtx | [69-sqrtx](69-sqrtx) |
 | 70 | 70-climbing-stairs | [70-climbing-stairs](70-climbing-stairs) |
+| 83 | 83-remove-duplicates-from-sorted-list | [83-remove-duplicates-from-sorted-list](83-remove-duplicates-from-sorted-list) |
 | 84 | 84-largest-rectangle-in-histogram | [84-largest-rectangle-in-histogram](84-largest-rectangle-in-histogram) |
 | 88 | 88-merge-sorted-array | [88-merge-sorted-array](88-merge-sorted-array) |
 | 101 | 101-symmetric-tree | [101-symmetric-tree](101-symmetric-tree) |
