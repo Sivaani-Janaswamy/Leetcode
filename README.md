@@ -11,6 +11,7 @@
 | 1 | 1-two-sum | [1-two-sum](1-two-sum) |
 | 14 | 14-longest-common-prefix | [14-longest-common-prefix](14-longest-common-prefix) |
 | 20 | 20-valid-parentheses | [20-valid-parentheses](20-valid-parentheses) |
+| 21 | 21-merge-two-sorted-lists | [21-merge-two-sorted-lists](21-merge-two-sorted-lists) |
 | 26 | 26-remove-duplicates-from-sorted-array | [26-remove-duplicates-from-sorted-array](26-remove-duplicates-from-sorted-array) |
 | 27 | 27-remove-element | [27-remove-element](27-remove-element) |
 | 35 | 35-search-insert-position | [35-search-insert-position](35-search-insert-position) |
