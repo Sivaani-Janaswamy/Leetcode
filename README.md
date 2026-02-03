@@ -33,6 +33,7 @@
 | 112 | 112-path-sum | [112-path-sum](112-path-sum) |
 | 118 | 118-pascals-triangle | [118-pascals-triangle](118-pascals-triangle) |
 | 119 | 119-pascals-triangle-ii | [119-pascals-triangle-ii](119-pascals-triangle-ii) |
+| 121 | 121-best-time-to-buy-and-sell-stock | [121-best-time-to-buy-and-sell-stock](121-best-time-to-buy-and-sell-stock) |
 | 143 | 143-reorder-list | [143-reorder-list](143-reorder-list) |
 | 150 | 150-evaluate-reverse-polish-notation | [150-evaluate-reverse-polish-notation](150-evaluate-reverse-polish-notation) |
 | 155 | 155-min-stack | [155-min-stack](155-min-stack) |
