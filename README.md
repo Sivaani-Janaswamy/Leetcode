@@ -36,6 +36,7 @@
 | 121 | 121-best-time-to-buy-and-sell-stock | [121-best-time-to-buy-and-sell-stock](121-best-time-to-buy-and-sell-stock) |
 | 136 | 136-single-number | [136-single-number](136-single-number) |
 | 143 | 143-reorder-list | [143-reorder-list](143-reorder-list) |
+| 144 | 144-binary-tree-preorder-traversal | [144-binary-tree-preorder-traversal](144-binary-tree-preorder-traversal) |
 | 150 | 150-evaluate-reverse-polish-notation | [150-evaluate-reverse-polish-notation](150-evaluate-reverse-polish-notation) |
 | 155 | 155-min-stack | [155-min-stack](155-min-stack) |
 | 206 | 206-reverse-linked-list | [206-reverse-linked-list](206-reverse-linked-list) |
