@@ -43,6 +43,7 @@
 | 171 | 171-excel-sheet-column-number | [171-excel-sheet-column-number](171-excel-sheet-column-number) |
 | 175 | 175-combine-two-tables | [175-combine-two-tables](175-combine-two-tables) |
 | 181 | 181-employees-earning-more-than-their-managers | [181-employees-earning-more-than-their-managers](181-employees-earning-more-than-their-managers) |
+| 182 | 182-duplicate-emails | [182-duplicate-emails](182-duplicate-emails) |
 | 206 | 206-reverse-linked-list | [206-reverse-linked-list](206-reverse-linked-list) |
 | 217 | 217-contains-duplicate | [217-contains-duplicate](217-contains-duplicate) |
 | 225 | 225-implement-stack-using-queues | [225-implement-stack-using-queues](225-implement-stack-using-queues) |
