@@ -9,6 +9,7 @@
 | # | Problem | Solution |
 |---|----------|----------|
 | 1 | 1-two-sum | [1-two-sum](1-two-sum) |
+| 3 | 3-longest-substring-without-repeating-characters | [3-longest-substring-without-repeating-characters](3-longest-substring-without-repeating-characters) |
 | 14 | 14-longest-common-prefix | [14-longest-common-prefix](14-longest-common-prefix) |
 | 19 | 19-remove-nth-node-from-end-of-list | [19-remove-nth-node-from-end-of-list](19-remove-nth-node-from-end-of-list) |
 | 20 | 20-valid-parentheses | [20-valid-parentheses](20-valid-parentheses) |
