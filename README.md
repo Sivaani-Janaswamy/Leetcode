@@ -55,6 +55,7 @@
 | 344 | 344-reverse-string | [344-reverse-string](344-reverse-string) |
 | 345 | 345-reverse-vowels-of-a-string | [345-reverse-vowels-of-a-string](345-reverse-vowels-of-a-string) |
 | 448 | 448-find-all-numbers-disappeared-in-an-array | [448-find-all-numbers-disappeared-in-an-array](448-find-all-numbers-disappeared-in-an-array) |
+| 543 | 543-diameter-of-binary-tree | [543-diameter-of-binary-tree](543-diameter-of-binary-tree) |
 | 643 | 643-maximum-average-subarray-i | [643-maximum-average-subarray-i](643-maximum-average-subarray-i) |
 | 682 | 682-baseball-game | [682-baseball-game](682-baseball-game) |
 | 739 | 739-daily-temperatures | [739-daily-temperatures](739-daily-temperatures) |
