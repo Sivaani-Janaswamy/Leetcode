@@ -26,6 +26,7 @@
 | 83 | 83-remove-duplicates-from-sorted-list | [83-remove-duplicates-from-sorted-list](83-remove-duplicates-from-sorted-list) |
 | 84 | 84-largest-rectangle-in-histogram | [84-largest-rectangle-in-histogram](84-largest-rectangle-in-histogram) |
 | 88 | 88-merge-sorted-array | [88-merge-sorted-array](88-merge-sorted-array) |
+| 94 | 94-binary-tree-inorder-traversal | [94-binary-tree-inorder-traversal](94-binary-tree-inorder-traversal) |
 | 101 | 101-symmetric-tree | [101-symmetric-tree](101-symmetric-tree) |
 | 104 | 104-maximum-depth-of-binary-tree | [104-maximum-depth-of-binary-tree](104-maximum-depth-of-binary-tree) |
 | 108 | 108-convert-sorted-array-to-binary-search-tree | [108-convert-sorted-array-to-binary-search-tree](108-convert-sorted-array-to-binary-search-tree) |
@@ -38,6 +39,7 @@
 | 136 | 136-single-number | [136-single-number](136-single-number) |
 | 143 | 143-reorder-list | [143-reorder-list](143-reorder-list) |
 | 144 | 144-binary-tree-preorder-traversal | [144-binary-tree-preorder-traversal](144-binary-tree-preorder-traversal) |
+| 145 | 145-binary-tree-postorder-traversal | [145-binary-tree-postorder-traversal](145-binary-tree-postorder-traversal) |
 | 150 | 150-evaluate-reverse-polish-notation | [150-evaluate-reverse-polish-notation](150-evaluate-reverse-polish-notation) |
 | 155 | 155-min-stack | [155-min-stack](155-min-stack) |
 | 168 | 168-excel-sheet-column-title | [168-excel-sheet-column-title](168-excel-sheet-column-title) |
@@ -60,6 +62,7 @@
 | 643 | 643-maximum-average-subarray-i | [643-maximum-average-subarray-i](643-maximum-average-subarray-i) |
 | 682 | 682-baseball-game | [682-baseball-game](682-baseball-game) |
 | 739 | 739-daily-temperatures | [739-daily-temperatures](739-daily-temperatures) |
+| 783 | 783-search-in-a-binary-search-tree | [783-search-in-a-binary-search-tree](783-search-in-a-binary-search-tree) |
 | 860 | 860-design-circular-queue | [860-design-circular-queue](860-design-circular-queue) |
 | 908 | 908-middle-of-the-linked-list | [908-middle-of-the-linked-list](908-middle-of-the-linked-list) |
 | 969 | 969-number-of-recent-calls | [969-number-of-recent-calls](969-number-of-recent-calls) |
