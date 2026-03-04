@@ -66,6 +66,7 @@
 | 860 | 860-design-circular-queue | [860-design-circular-queue](860-design-circular-queue) |
 | 908 | 908-middle-of-the-linked-list | [908-middle-of-the-linked-list](908-middle-of-the-linked-list) |
 | 969 | 969-number-of-recent-calls | [969-number-of-recent-calls](969-number-of-recent-calls) |
+| 1005 | 1005-univalued-binary-tree | [1005-univalued-binary-tree](1005-univalued-binary-tree) |
 | 1128 | 1128-remove-all-adjacent-duplicates-in-string | [1128-remove-all-adjacent-duplicates-in-string](1128-remove-all-adjacent-duplicates-in-string) |
 | 1395 | 1395-minimum-time-visiting-all-points | [1395-minimum-time-visiting-all-points](1395-minimum-time-visiting-all-points) |
 | 1482 | 1482-how-many-numbers-are-smaller-than-the-current-number | [1482-how-many-numbers-are-smaller-than-the-current-number](1482-how-many-numbers-are-smaller-than-the-current-number) |
