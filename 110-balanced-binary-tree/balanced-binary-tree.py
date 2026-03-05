@@ -10,22 +10,19 @@ class Solution(object):
         :type root: Optional[TreeNode]
         :rtype: bool
         """
-        def helper(root):
-            if root is None:
+        def dfs(node):
+            if not node:
                 return 0
-            leftHeight =  helper(root.left)
-            rightHeight = helper(root.right)
-            if leftHeight==-1 or rightHeight==-1:
+            left = dfs(node.left)
+            if left == -1:
                 return -1
-            if abs(leftHeight-rightHeight)>1:
+            right = dfs(node.right)
+            if right == -1:
                 return -1
-            height = 1 + max(leftHeight,rightHeight)
-            return height
-        result = helper(root)
-        if result == -1:
-            return False
-        else:
-            return True
+            if abs(left-right)>1:
+                return -1
+            return 1 + max(left,right)
+        return dfs(root)!=-1
 
 
         
