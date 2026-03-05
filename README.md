@@ -55,6 +55,7 @@
 | 222 | 222-count-complete-tree-nodes | [222-count-complete-tree-nodes](222-count-complete-tree-nodes) |
 | 225 | 225-implement-stack-using-queues | [225-implement-stack-using-queues](225-implement-stack-using-queues) |
 | 226 | 226-invert-binary-tree | [226-invert-binary-tree](226-invert-binary-tree) |
+| 257 | 257-binary-tree-paths | [257-binary-tree-paths](257-binary-tree-paths) |
 | 268 | 268-missing-number | [268-missing-number](268-missing-number) |
 | 344 | 344-reverse-string | [344-reverse-string](344-reverse-string) |
 | 345 | 345-reverse-vowels-of-a-string | [345-reverse-vowels-of-a-string](345-reverse-vowels-of-a-string) |
