@@ -4,21 +4,25 @@ class Solution(object):
         :type n: int
         :rtype: bool
         """
-        k = 0
-        new = 0
-        r = 0
-        while(True):
-          while(n>0):
-            r = n%10
-            n = n//10
-            new += pow(r,2)
-          if new == 1:
+        def getNext(n1):
+            r,n2=0,0
+            while(n1>0):
+              r=n1%10
+              n1=n1//10
+              n2+=pow(r,2)
+            return n2
+        slow,fast = n,getNext(n)
+        if fast==1:
             return True
-          n = new
-          new = 0
-          k+=1
-          if k>1000:
-            return False
+        while(slow!=fast):
+          slow = getNext(slow)
+          fast = getNext(getNext(fast))
+          if fast==1:
+            return True
+        return False
+
+          
+          
           
 
         
