@@ -58,6 +58,7 @@
 | 226 | 226-invert-binary-tree | [226-invert-binary-tree](226-invert-binary-tree) |
 | 257 | 257-binary-tree-paths | [257-binary-tree-paths](257-binary-tree-paths) |
 | 268 | 268-missing-number | [268-missing-number](268-missing-number) |
+| 338 | 338-counting-bits | [338-counting-bits](338-counting-bits) |
 | 344 | 344-reverse-string | [344-reverse-string](344-reverse-string) |
 | 345 | 345-reverse-vowels-of-a-string | [345-reverse-vowels-of-a-string](345-reverse-vowels-of-a-string) |
 | 448 | 448-find-all-numbers-disappeared-in-an-array | [448-find-all-numbers-disappeared-in-an-array](448-find-all-numbers-disappeared-in-an-array) |
