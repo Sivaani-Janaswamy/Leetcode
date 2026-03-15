@@ -19,6 +19,7 @@
 | 35 | 35-search-insert-position | [35-search-insert-position](35-search-insert-position) |
 | 54 | 54-spiral-matrix | [54-spiral-matrix](54-spiral-matrix) |
 | 58 | 58-length-of-last-word | [58-length-of-last-word](58-length-of-last-word) |
+| 62 | 62-unique-paths | [62-unique-paths](62-unique-paths) |
 | 66 | 66-plus-one | [66-plus-one](66-plus-one) |
 | 67 | 67-add-binary | [67-add-binary](67-add-binary) |
 | 69 | 69-sqrtx | [69-sqrtx](69-sqrtx) |
