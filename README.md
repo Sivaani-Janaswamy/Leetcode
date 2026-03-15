@@ -66,6 +66,7 @@
 | 643 | 643-maximum-average-subarray-i | [643-maximum-average-subarray-i](643-maximum-average-subarray-i) |
 | 682 | 682-baseball-game | [682-baseball-game](682-baseball-game) |
 | 739 | 739-daily-temperatures | [739-daily-temperatures](739-daily-temperatures) |
+| 747 | 747-min-cost-climbing-stairs | [747-min-cost-climbing-stairs](747-min-cost-climbing-stairs) |
 | 783 | 783-search-in-a-binary-search-tree | [783-search-in-a-binary-search-tree](783-search-in-a-binary-search-tree) |
 | 860 | 860-design-circular-queue | [860-design-circular-queue](860-design-circular-queue) |
 | 908 | 908-middle-of-the-linked-list | [908-middle-of-the-linked-list](908-middle-of-the-linked-list) |
