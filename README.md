@@ -73,6 +73,7 @@
 | 1005 | 1005-univalued-binary-tree | [1005-univalued-binary-tree](1005-univalued-binary-tree) |
 | 1013 | 1013-fibonacci-number | [1013-fibonacci-number](1013-fibonacci-number) |
 | 1128 | 1128-remove-all-adjacent-duplicates-in-string | [1128-remove-all-adjacent-duplicates-in-string](1128-remove-all-adjacent-duplicates-in-string) |
+| 1236 | 1236-n-th-tribonacci-number | [1236-n-th-tribonacci-number](1236-n-th-tribonacci-number) |
 | 1395 | 1395-minimum-time-visiting-all-points | [1395-minimum-time-visiting-all-points](1395-minimum-time-visiting-all-points) |
 | 1482 | 1482-how-many-numbers-are-smaller-than-the-current-number | [1482-how-many-numbers-are-smaller-than-the-current-number](1482-how-many-numbers-are-smaller-than-the-current-number) |
 | 1552 | 1552-build-an-array-with-stack-operations | [1552-build-an-array-with-stack-operations](1552-build-an-array-with-stack-operations) |
