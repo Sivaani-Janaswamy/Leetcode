@@ -81,6 +81,7 @@
 | 1482 | 1482-how-many-numbers-are-smaller-than-the-current-number | [1482-how-many-numbers-are-smaller-than-the-current-number](1482-how-many-numbers-are-smaller-than-the-current-number) |
 | 1552 | 1552-build-an-array-with-stack-operations | [1552-build-an-array-with-stack-operations](1552-build-an-array-with-stack-operations) |
 | 1802 | 1802-number-of-students-unable-to-eat-lunch | [1802-number-of-students-unable-to-eat-lunch](1802-number-of-students-unable-to-eat-lunch) |
+| 1894 | 1894-merge-strings-alternately | [1894-merge-strings-alternately](1894-merge-strings-alternately) |
 | 2195 | 2195-time-needed-to-buy-tickets | [2195-time-needed-to-buy-tickets](2195-time-needed-to-buy-tickets) |
 | 2470 | 2470-removing-stars-from-a-string | [2470-removing-stars-from-a-string](2470-removing-stars-from-a-string) |
 <!-- END_TABLE -->
