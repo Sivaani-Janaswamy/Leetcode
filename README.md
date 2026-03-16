@@ -80,6 +80,7 @@
 | 1236 | 1236-n-th-tribonacci-number | [1236-n-th-tribonacci-number](1236-n-th-tribonacci-number) |
 | 1395 | 1395-minimum-time-visiting-all-points | [1395-minimum-time-visiting-all-points](1395-minimum-time-visiting-all-points) |
 | 1482 | 1482-how-many-numbers-are-smaller-than-the-current-number | [1482-how-many-numbers-are-smaller-than-the-current-number](1482-how-many-numbers-are-smaller-than-the-current-number) |
+| 1528 | 1528-kids-with-the-greatest-number-of-candies | [1528-kids-with-the-greatest-number-of-candies](1528-kids-with-the-greatest-number-of-candies) |
 | 1552 | 1552-build-an-array-with-stack-operations | [1552-build-an-array-with-stack-operations](1552-build-an-array-with-stack-operations) |
 | 1802 | 1802-number-of-students-unable-to-eat-lunch | [1802-number-of-students-unable-to-eat-lunch](1802-number-of-students-unable-to-eat-lunch) |
 | 1894 | 1894-merge-strings-alternately | [1894-merge-strings-alternately](1894-merge-strings-alternately) |
