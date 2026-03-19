@@ -67,6 +67,7 @@
 | 338 | 338-counting-bits | [338-counting-bits](338-counting-bits) |
 | 344 | 344-reverse-string | [344-reverse-string](344-reverse-string) |
 | 345 | 345-reverse-vowels-of-a-string | [345-reverse-vowels-of-a-string](345-reverse-vowels-of-a-string) |
+| 392 | 392-is-subsequence | [392-is-subsequence](392-is-subsequence) |
 | 443 | 443-string-compression | [443-string-compression](443-string-compression) |
 | 448 | 448-find-all-numbers-disappeared-in-an-array | [448-find-all-numbers-disappeared-in-an-array](448-find-all-numbers-disappeared-in-an-array) |
 | 543 | 543-diameter-of-binary-tree | [543-diameter-of-binary-tree](543-diameter-of-binary-tree) |
