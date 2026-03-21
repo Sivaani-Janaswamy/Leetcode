@@ -95,6 +95,7 @@
 | 1552 | 1552-build-an-array-with-stack-operations | [1552-build-an-array-with-stack-operations](1552-build-an-array-with-stack-operations) |
 | 1567 | 1567-maximum-number-of-vowels-in-a-substring-of-given-length | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | 1586 | 1586-longest-subarray-of-1s-after-deleting-one-element | [1586-longest-subarray-of-1s-after-deleting-one-element](1586-longest-subarray-of-1s-after-deleting-one-element) |
+| 1777 | 1777-determine-if-two-strings-are-close | [1777-determine-if-two-strings-are-close](1777-determine-if-two-strings-are-close) |
 | 1798 | 1798-max-number-of-k-sum-pairs | [1798-max-number-of-k-sum-pairs](1798-max-number-of-k-sum-pairs) |
 | 1802 | 1802-number-of-students-unable-to-eat-lunch | [1802-number-of-students-unable-to-eat-lunch](1802-number-of-students-unable-to-eat-lunch) |
 | 1833 | 1833-find-the-highest-altitude | [1833-find-the-highest-altitude](1833-find-the-highest-altitude) |
