@@ -87,6 +87,7 @@
 | 1128 | 1128-remove-all-adjacent-duplicates-in-string | [1128-remove-all-adjacent-duplicates-in-string](1128-remove-all-adjacent-duplicates-in-string) |
 | 1146 | 1146-greatest-common-divisor-of-strings | [1146-greatest-common-divisor-of-strings](1146-greatest-common-divisor-of-strings) |
 | 1236 | 1236-n-th-tribonacci-number | [1236-n-th-tribonacci-number](1236-n-th-tribonacci-number) |
+| 1319 | 1319-unique-number-of-occurrences | [1319-unique-number-of-occurrences](1319-unique-number-of-occurrences) |
 | 1392 | 1392-find-the-difference-of-two-arrays | [1392-find-the-difference-of-two-arrays](1392-find-the-difference-of-two-arrays) |
 | 1395 | 1395-minimum-time-visiting-all-points | [1395-minimum-time-visiting-all-points](1395-minimum-time-visiting-all-points) |
 | 1482 | 1482-how-many-numbers-are-smaller-than-the-current-number | [1482-how-many-numbers-are-smaller-than-the-current-number](1482-how-many-numbers-are-smaller-than-the-current-number) |
