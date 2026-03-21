@@ -94,6 +94,7 @@
 | 1586 | 1586-longest-subarray-of-1s-after-deleting-one-element | [1586-longest-subarray-of-1s-after-deleting-one-element](1586-longest-subarray-of-1s-after-deleting-one-element) |
 | 1798 | 1798-max-number-of-k-sum-pairs | [1798-max-number-of-k-sum-pairs](1798-max-number-of-k-sum-pairs) |
 | 1802 | 1802-number-of-students-unable-to-eat-lunch | [1802-number-of-students-unable-to-eat-lunch](1802-number-of-students-unable-to-eat-lunch) |
+| 1833 | 1833-find-the-highest-altitude | [1833-find-the-highest-altitude](1833-find-the-highest-altitude) |
 | 1894 | 1894-merge-strings-alternately | [1894-merge-strings-alternately](1894-merge-strings-alternately) |
 | 2195 | 2195-time-needed-to-buy-tickets | [2195-time-needed-to-buy-tickets](2195-time-needed-to-buy-tickets) |
 | 2470 | 2470-removing-stars-from-a-string | [2470-removing-stars-from-a-string](2470-removing-stars-from-a-string) |
