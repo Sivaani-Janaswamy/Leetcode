@@ -75,6 +75,7 @@
 | 543 | 543-diameter-of-binary-tree | [543-diameter-of-binary-tree](543-diameter-of-binary-tree) |
 | 605 | 605-can-place-flowers | [605-can-place-flowers](605-can-place-flowers) |
 | 643 | 643-maximum-average-subarray-i | [643-maximum-average-subarray-i](643-maximum-average-subarray-i) |
+| 649 | 649-dota2-senate | [649-dota2-senate](649-dota2-senate) |
 | 682 | 682-baseball-game | [682-baseball-game](682-baseball-game) |
 | 724 | 724-find-pivot-index | [724-find-pivot-index](724-find-pivot-index) |
 | 735 | 735-asteroid-collision | [735-asteroid-collision](735-asteroid-collision) |
