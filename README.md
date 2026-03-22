@@ -101,5 +101,6 @@
 | 1833 | 1833-find-the-highest-altitude | [1833-find-the-highest-altitude](1833-find-the-highest-altitude) |
 | 1894 | 1894-merge-strings-alternately | [1894-merge-strings-alternately](1894-merge-strings-alternately) |
 | 2195 | 2195-time-needed-to-buy-tickets | [2195-time-needed-to-buy-tickets](2195-time-needed-to-buy-tickets) |
+| 2428 | 2428-equal-row-and-column-pairs | [2428-equal-row-and-column-pairs](2428-equal-row-and-column-pairs) |
 | 2470 | 2470-removing-stars-from-a-string | [2470-removing-stars-from-a-string](2470-removing-stars-from-a-string) |
 <!-- END_TABLE -->
