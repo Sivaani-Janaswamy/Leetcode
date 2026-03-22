@@ -14,7 +14,7 @@ class Solution(object):
                     stack.pop()
                     survive = False
                     break
-                elif abs(stack[-1])>abs(ast):
+                else:
                     survive = False
                     break
             if survive:
