@@ -97,6 +97,7 @@
 | 1395 | 1395-minimum-time-visiting-all-points | [1395-minimum-time-visiting-all-points](1395-minimum-time-visiting-all-points) |
 | 1482 | 1482-how-many-numbers-are-smaller-than-the-current-number | [1482-how-many-numbers-are-smaller-than-the-current-number](1482-how-many-numbers-are-smaller-than-the-current-number) |
 | 1528 | 1528-kids-with-the-greatest-number-of-candies | [1528-kids-with-the-greatest-number-of-candies](1528-kids-with-the-greatest-number-of-candies) |
+| 1544 | 1544-count-good-nodes-in-binary-tree | [1544-count-good-nodes-in-binary-tree](1544-count-good-nodes-in-binary-tree) |
 | 1552 | 1552-build-an-array-with-stack-operations | [1552-build-an-array-with-stack-operations](1552-build-an-array-with-stack-operations) |
 | 1567 | 1567-maximum-number-of-vowels-in-a-substring-of-given-length | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | 1586 | 1586-longest-subarray-of-1s-after-deleting-one-element | [1586-longest-subarray-of-1s-after-deleting-one-element](1586-longest-subarray-of-1s-after-deleting-one-element) |
