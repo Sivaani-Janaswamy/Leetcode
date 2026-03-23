@@ -84,6 +84,7 @@
 | 747 | 747-min-cost-climbing-stairs | [747-min-cost-climbing-stairs](747-min-cost-climbing-stairs) |
 | 783 | 783-search-in-a-binary-search-tree | [783-search-in-a-binary-search-tree](783-search-in-a-binary-search-tree) |
 | 860 | 860-design-circular-queue | [860-design-circular-queue](860-design-circular-queue) |
+| 904 | 904-leaf-similar-trees | [904-leaf-similar-trees](904-leaf-similar-trees) |
 | 908 | 908-middle-of-the-linked-list | [908-middle-of-the-linked-list](908-middle-of-the-linked-list) |
 | 969 | 969-number-of-recent-calls | [969-number-of-recent-calls](969-number-of-recent-calls) |
 | 1005 | 1005-univalued-binary-tree | [1005-univalued-binary-tree](1005-univalued-binary-tree) |
