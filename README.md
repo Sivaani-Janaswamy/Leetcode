@@ -18,6 +18,7 @@
 | 26 | 26-remove-duplicates-from-sorted-array | [26-remove-duplicates-from-sorted-array](26-remove-duplicates-from-sorted-array) |
 | 27 | 27-remove-element | [27-remove-element](27-remove-element) |
 | 35 | 35-search-insert-position | [35-search-insert-position](35-search-insert-position) |
+| 44 | 44-wildcard-matching | [44-wildcard-matching](44-wildcard-matching) |
 | 54 | 54-spiral-matrix | [54-spiral-matrix](54-spiral-matrix) |
 | 58 | 58-length-of-last-word | [58-length-of-last-word](58-length-of-last-word) |
 | 62 | 62-unique-paths | [62-unique-paths](62-unique-paths) |
