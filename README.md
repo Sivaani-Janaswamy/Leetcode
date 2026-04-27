@@ -40,6 +40,7 @@
 | 119 | 119-pascals-triangle-ii | [119-pascals-triangle-ii](119-pascals-triangle-ii) |
 | 121 | 121-best-time-to-buy-and-sell-stock | [121-best-time-to-buy-and-sell-stock](121-best-time-to-buy-and-sell-stock) |
 | 136 | 136-single-number | [136-single-number](136-single-number) |
+| 141 | 141-linked-list-cycle | [141-linked-list-cycle](141-linked-list-cycle) |
 | 143 | 143-reorder-list | [143-reorder-list](143-reorder-list) |
 | 144 | 144-binary-tree-preorder-traversal | [144-binary-tree-preorder-traversal](144-binary-tree-preorder-traversal) |
 | 145 | 145-binary-tree-postorder-traversal | [145-binary-tree-postorder-traversal](145-binary-tree-postorder-traversal) |
