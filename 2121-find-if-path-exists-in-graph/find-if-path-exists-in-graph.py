@@ -7,7 +7,6 @@ class Solution(object):
         :type destination: int
         :rtype: bool
         """
-        visited = set()
         graph = [[] for i in range(n)]
         for edge in edges:
             u,v = edge[0],edge[1]
