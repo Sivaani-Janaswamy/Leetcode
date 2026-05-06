@@ -108,6 +108,7 @@
 | 1802 | 1802-number-of-students-unable-to-eat-lunch | [1802-number-of-students-unable-to-eat-lunch](1802-number-of-students-unable-to-eat-lunch) |
 | 1833 | 1833-find-the-highest-altitude | [1833-find-the-highest-altitude](1833-find-the-highest-altitude) |
 | 1894 | 1894-merge-strings-alternately | [1894-merge-strings-alternately](1894-merge-strings-alternately) |
+| 2121 | 2121-find-if-path-exists-in-graph | [2121-find-if-path-exists-in-graph](2121-find-if-path-exists-in-graph) |
 | 2195 | 2195-time-needed-to-buy-tickets | [2195-time-needed-to-buy-tickets](2195-time-needed-to-buy-tickets) |
 | 2216 | 2216-delete-the-middle-node-of-a-linked-list | [2216-delete-the-middle-node-of-a-linked-list](2216-delete-the-middle-node-of-a-linked-list) |
 | 2236 | 2236-maximum-twin-sum-of-a-linked-list | [2236-maximum-twin-sum-of-a-linked-list](2236-maximum-twin-sum-of-a-linked-list) |
