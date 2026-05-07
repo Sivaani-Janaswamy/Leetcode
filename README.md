@@ -92,6 +92,7 @@
 | 969 | 969-number-of-recent-calls | [969-number-of-recent-calls](969-number-of-recent-calls) |
 | 1005 | 1005-univalued-binary-tree | [1005-univalued-binary-tree](1005-univalued-binary-tree) |
 | 1013 | 1013-fibonacci-number | [1013-fibonacci-number](1013-fibonacci-number) |
+| 1036 | 1036-rotting-oranges | [1036-rotting-oranges](1036-rotting-oranges) |
 | 1128 | 1128-remove-all-adjacent-duplicates-in-string | [1128-remove-all-adjacent-duplicates-in-string](1128-remove-all-adjacent-duplicates-in-string) |
 | 1146 | 1146-greatest-common-divisor-of-strings | [1146-greatest-common-divisor-of-strings](1146-greatest-common-divisor-of-strings) |
 | 1236 | 1236-n-th-tribonacci-number | [1236-n-th-tribonacci-number](1236-n-th-tribonacci-number) |
