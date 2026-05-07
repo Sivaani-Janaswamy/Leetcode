@@ -87,6 +87,7 @@
 | 739 | 739-daily-temperatures | [739-daily-temperatures](739-daily-temperatures) |
 | 747 | 747-min-cost-climbing-stairs | [747-min-cost-climbing-stairs](747-min-cost-climbing-stairs) |
 | 783 | 783-search-in-a-binary-search-tree | [783-search-in-a-binary-search-tree](783-search-in-a-binary-search-tree) |
+| 813 | 813-all-paths-from-source-to-target | [813-all-paths-from-source-to-target](813-all-paths-from-source-to-target) |
 | 860 | 860-design-circular-queue | [860-design-circular-queue](860-design-circular-queue) |
 | 904 | 904-leaf-similar-trees | [904-leaf-similar-trees](904-leaf-similar-trees) |
 | 908 | 908-middle-of-the-linked-list | [908-middle-of-the-linked-list](908-middle-of-the-linked-list) |
