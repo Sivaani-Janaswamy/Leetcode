@@ -74,6 +74,7 @@
 | 345 | 345-reverse-vowels-of-a-string | [345-reverse-vowels-of-a-string](345-reverse-vowels-of-a-string) |
 | 392 | 392-is-subsequence | [392-is-subsequence](392-is-subsequence) |
 | 394 | 394-decode-string | [394-decode-string](394-decode-string) |
+| 435 | 435-non-overlapping-intervals | [435-non-overlapping-intervals](435-non-overlapping-intervals) |
 | 443 | 443-string-compression | [443-string-compression](443-string-compression) |
 | 448 | 448-find-all-numbers-disappeared-in-an-array | [448-find-all-numbers-disappeared-in-an-array](448-find-all-numbers-disappeared-in-an-array) |
 | 543 | 543-diameter-of-binary-tree | [543-diameter-of-binary-tree](543-diameter-of-binary-tree) |
@@ -89,6 +90,7 @@
 | 783 | 783-search-in-a-binary-search-tree | [783-search-in-a-binary-search-tree](783-search-in-a-binary-search-tree) |
 | 813 | 813-all-paths-from-source-to-target | [813-all-paths-from-source-to-target](813-all-paths-from-source-to-target) |
 | 860 | 860-design-circular-queue | [860-design-circular-queue](860-design-circular-queue) |
+| 871 | 871-keys-and-rooms | [871-keys-and-rooms](871-keys-and-rooms) |
 | 904 | 904-leaf-similar-trees | [904-leaf-similar-trees](904-leaf-similar-trees) |
 | 908 | 908-middle-of-the-linked-list | [908-middle-of-the-linked-list](908-middle-of-the-linked-list) |
 | 937 | 937-online-stock-span | [937-online-stock-span](937-online-stock-span) |
