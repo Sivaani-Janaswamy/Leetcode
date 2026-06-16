@@ -20,6 +20,7 @@
 | 35 | 35-search-insert-position | [35-search-insert-position](35-search-insert-position) |
 | 44 | 44-wildcard-matching | [44-wildcard-matching](44-wildcard-matching) |
 | 54 | 54-spiral-matrix | [54-spiral-matrix](54-spiral-matrix) |
+| 55 | 55-jump-game | [55-jump-game](55-jump-game) |
 | 58 | 58-length-of-last-word | [58-length-of-last-word](58-length-of-last-word) |
 | 62 | 62-unique-paths | [62-unique-paths](62-unique-paths) |
 | 66 | 66-plus-one | [66-plus-one](66-plus-one) |
