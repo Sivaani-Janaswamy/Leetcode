@@ -19,6 +19,7 @@
 | 27 | 27-remove-element | [27-remove-element](27-remove-element) |
 | 35 | 35-search-insert-position | [35-search-insert-position](35-search-insert-position) |
 | 44 | 44-wildcard-matching | [44-wildcard-matching](44-wildcard-matching) |
+| 45 | 45-jump-game-ii | [45-jump-game-ii](45-jump-game-ii) |
 | 54 | 54-spiral-matrix | [54-spiral-matrix](54-spiral-matrix) |
 | 55 | 55-jump-game | [55-jump-game](55-jump-game) |
 | 58 | 58-length-of-last-word | [58-length-of-last-word](58-length-of-last-word) |
