@@ -119,6 +119,7 @@
 | 1802 | 1802-number-of-students-unable-to-eat-lunch | [1802-number-of-students-unable-to-eat-lunch](1802-number-of-students-unable-to-eat-lunch) |
 | 1833 | 1833-find-the-highest-altitude | [1833-find-the-highest-altitude](1833-find-the-highest-altitude) |
 | 1894 | 1894-merge-strings-alternately | [1894-merge-strings-alternately](1894-merge-strings-alternately) |
+| 1908 | 1908-recyclable-and-low-fat-products | [1908-recyclable-and-low-fat-products](1908-recyclable-and-low-fat-products) |
 | 1916 | 1916-find-center-of-star-graph | [1916-find-center-of-star-graph](1916-find-center-of-star-graph) |
 | 2121 | 2121-find-if-path-exists-in-graph | [2121-find-if-path-exists-in-graph](2121-find-if-path-exists-in-graph) |
 | 2195 | 2195-time-needed-to-buy-tickets | [2195-time-needed-to-buy-tickets](2195-time-needed-to-buy-tickets) |
