@@ -126,6 +126,7 @@
 | 1894 | 1894-merge-strings-alternately | [1894-merge-strings-alternately](1894-merge-strings-alternately) |
 | 1908 | 1908-recyclable-and-low-fat-products | [1908-recyclable-and-low-fat-products](1908-recyclable-and-low-fat-products) |
 | 1916 | 1916-find-center-of-star-graph | [1916-find-center-of-star-graph](1916-find-center-of-star-graph) |
+| 2087 | 2087-confirmation-rate | [2087-confirmation-rate](2087-confirmation-rate) |
 | 2121 | 2121-find-if-path-exists-in-graph | [2121-find-if-path-exists-in-graph](2121-find-if-path-exists-in-graph) |
 | 2195 | 2195-time-needed-to-buy-tickets | [2195-time-needed-to-buy-tickets](2195-time-needed-to-buy-tickets) |
 | 2216 | 2216-delete-the-middle-node-of-a-linked-list | [2216-delete-the-middle-node-of-a-linked-list](2216-delete-the-middle-node-of-a-linked-list) |
