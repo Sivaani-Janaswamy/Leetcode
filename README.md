@@ -58,6 +58,7 @@
 | 182 | 182-duplicate-emails | [182-duplicate-emails](182-duplicate-emails) |
 | 183 | 183-customers-who-never-order | [183-customers-who-never-order](183-customers-who-never-order) |
 | 190 | 190-reverse-bits | [190-reverse-bits](190-reverse-bits) |
+| 197 | 197-rising-temperature | [197-rising-temperature](197-rising-temperature) |
 | 198 | 198-house-robber | [198-house-robber](198-house-robber) |
 | 200 | 200-number-of-islands | [200-number-of-islands](200-number-of-islands) |
 | 202 | 202-happy-number | [202-happy-number](202-happy-number) |
