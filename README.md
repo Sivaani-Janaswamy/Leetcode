@@ -120,6 +120,7 @@
 | 1724 | 1724-customer-who-visited-but-did-not-make-any-transactions | [1724-customer-who-visited-but-did-not-make-any-transactions](1724-customer-who-visited-but-did-not-make-any-transactions) |
 | 1777 | 1777-determine-if-two-strings-are-close | [1777-determine-if-two-strings-are-close](1777-determine-if-two-strings-are-close) |
 | 1798 | 1798-max-number-of-k-sum-pairs | [1798-max-number-of-k-sum-pairs](1798-max-number-of-k-sum-pairs) |
+| 1801 | 1801-average-time-of-process-per-machine | [1801-average-time-of-process-per-machine](1801-average-time-of-process-per-machine) |
 | 1802 | 1802-number-of-students-unable-to-eat-lunch | [1802-number-of-students-unable-to-eat-lunch](1802-number-of-students-unable-to-eat-lunch) |
 | 1833 | 1833-find-the-highest-altitude | [1833-find-the-highest-altitude](1833-find-the-highest-altitude) |
 | 1894 | 1894-merge-strings-alternately | [1894-merge-strings-alternately](1894-merge-strings-alternately) |
