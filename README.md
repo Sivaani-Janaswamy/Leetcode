@@ -84,6 +84,7 @@
 | 448 | 448-find-all-numbers-disappeared-in-an-array | [448-find-all-numbers-disappeared-in-an-array](448-find-all-numbers-disappeared-in-an-array) |
 | 543 | 543-diameter-of-binary-tree | [543-diameter-of-binary-tree](543-diameter-of-binary-tree) |
 | 547 | 547-number-of-provinces | [547-number-of-provinces](547-number-of-provinces) |
+| 570 | 570-managers-with-at-least-5-direct-reports | [570-managers-with-at-least-5-direct-reports](570-managers-with-at-least-5-direct-reports) |
 | 605 | 605-can-place-flowers | [605-can-place-flowers](605-can-place-flowers) |
 | 643 | 643-maximum-average-subarray-i | [643-maximum-average-subarray-i](643-maximum-average-subarray-i) |
 | 649 | 649-dota2-senate | [649-dota2-senate](649-dota2-senate) |
