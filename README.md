@@ -112,6 +112,7 @@
 | 1319 | 1319-unique-number-of-occurrences | [1319-unique-number-of-occurrences](1319-unique-number-of-occurrences) |
 | 1392 | 1392-find-the-difference-of-two-arrays | [1392-find-the-difference-of-two-arrays](1392-find-the-difference-of-two-arrays) |
 | 1395 | 1395-minimum-time-visiting-all-points | [1395-minimum-time-visiting-all-points](1395-minimum-time-visiting-all-points) |
+| 1415 | 1415-students-and-examinations | [1415-students-and-examinations](1415-students-and-examinations) |
 | 1482 | 1482-how-many-numbers-are-smaller-than-the-current-number | [1482-how-many-numbers-are-smaller-than-the-current-number](1482-how-many-numbers-are-smaller-than-the-current-number) |
 | 1528 | 1528-kids-with-the-greatest-number-of-candies | [1528-kids-with-the-greatest-number-of-candies](1528-kids-with-the-greatest-number-of-candies) |
 | 1544 | 1544-count-good-nodes-in-binary-tree | [1544-count-good-nodes-in-binary-tree](1544-count-good-nodes-in-binary-tree) |
