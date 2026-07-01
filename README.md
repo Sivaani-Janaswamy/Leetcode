@@ -108,6 +108,7 @@
 | 1128 | 1128-remove-all-adjacent-duplicates-in-string | [1128-remove-all-adjacent-duplicates-in-string](1128-remove-all-adjacent-duplicates-in-string) |
 | 1146 | 1146-greatest-common-divisor-of-strings | [1146-greatest-common-divisor-of-strings](1146-greatest-common-divisor-of-strings) |
 | 1153 | 1153-product-sales-analysis-i | [1153-product-sales-analysis-i](1153-product-sales-analysis-i) |
+| 1161 | 1161-project-employees-i | [1161-project-employees-i](1161-project-employees-i) |
 | 1236 | 1236-n-th-tribonacci-number | [1236-n-th-tribonacci-number](1236-n-th-tribonacci-number) |
 | 1258 | 1258-article-views-i | [1258-article-views-i](1258-article-views-i) |
 | 1319 | 1319-unique-number-of-occurrences | [1319-unique-number-of-occurrences](1319-unique-number-of-occurrences) |
