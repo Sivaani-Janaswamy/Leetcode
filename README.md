@@ -111,6 +111,7 @@
 | 1236 | 1236-n-th-tribonacci-number | [1236-n-th-tribonacci-number](1236-n-th-tribonacci-number) |
 | 1258 | 1258-article-views-i | [1258-article-views-i](1258-article-views-i) |
 | 1319 | 1319-unique-number-of-occurrences | [1319-unique-number-of-occurrences](1319-unique-number-of-occurrences) |
+| 1390 | 1390-average-selling-price | [1390-average-selling-price](1390-average-selling-price) |
 | 1392 | 1392-find-the-difference-of-two-arrays | [1392-find-the-difference-of-two-arrays](1392-find-the-difference-of-two-arrays) |
 | 1395 | 1395-minimum-time-visiting-all-points | [1395-minimum-time-visiting-all-points](1395-minimum-time-visiting-all-points) |
 | 1415 | 1415-students-and-examinations | [1415-students-and-examinations](1415-students-and-examinations) |
