@@ -123,6 +123,7 @@
 | 1567 | 1567-maximum-number-of-vowels-in-a-substring-of-given-length | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | 1586 | 1586-longest-subarray-of-1s-after-deleting-one-element | [1586-longest-subarray-of-1s-after-deleting-one-element](1586-longest-subarray-of-1s-after-deleting-one-element) |
 | 1724 | 1724-customer-who-visited-but-did-not-make-any-transactions | [1724-customer-who-visited-but-did-not-make-any-transactions](1724-customer-who-visited-but-did-not-make-any-transactions) |
+| 1773 | 1773-percentage-of-users-attended-a-contest | [1773-percentage-of-users-attended-a-contest](1773-percentage-of-users-attended-a-contest) |
 | 1777 | 1777-determine-if-two-strings-are-close | [1777-determine-if-two-strings-are-close](1777-determine-if-two-strings-are-close) |
 | 1798 | 1798-max-number-of-k-sum-pairs | [1798-max-number-of-k-sum-pairs](1798-max-number-of-k-sum-pairs) |
 | 1801 | 1801-average-time-of-process-per-machine | [1801-average-time-of-process-per-machine](1801-average-time-of-process-per-machine) |
