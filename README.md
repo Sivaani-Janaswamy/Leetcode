@@ -141,4 +141,5 @@
 | 2236 | 2236-maximum-twin-sum-of-a-linked-list | [2236-maximum-twin-sum-of-a-linked-list](2236-maximum-twin-sum-of-a-linked-list) |
 | 2428 | 2428-equal-row-and-column-pairs | [2428-equal-row-and-column-pairs](2428-equal-row-and-column-pairs) |
 | 2470 | 2470-removing-stars-from-a-string | [2470-removing-stars-from-a-string](2470-removing-stars-from-a-string) |
+| 2495 | 2495-number-of-unique-subjects-taught-by-each-teacher | [2495-number-of-unique-subjects-taught-by-each-teacher](2495-number-of-unique-subjects-taught-by-each-teacher) |
 <!-- END_TABLE -->
