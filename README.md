@@ -109,6 +109,7 @@
 | 1146 | 1146-greatest-common-divisor-of-strings | [1146-greatest-common-divisor-of-strings](1146-greatest-common-divisor-of-strings) |
 | 1153 | 1153-product-sales-analysis-i | [1153-product-sales-analysis-i](1153-product-sales-analysis-i) |
 | 1161 | 1161-project-employees-i | [1161-project-employees-i](1161-project-employees-i) |
+| 1182 | 1182-game-play-analysis-iv | [1182-game-play-analysis-iv](1182-game-play-analysis-iv) |
 | 1236 | 1236-n-th-tribonacci-number | [1236-n-th-tribonacci-number](1236-n-th-tribonacci-number) |
 | 1258 | 1258-article-views-i | [1258-article-views-i](1258-article-views-i) |
 | 1292 | 1292-immediate-food-delivery-ii | [1292-immediate-food-delivery-ii](1292-immediate-food-delivery-ii) |
