@@ -106,6 +106,7 @@
 | 1013 | 1013-fibonacci-number | [1013-fibonacci-number](1013-fibonacci-number) |
 | 1036 | 1036-rotting-oranges | [1036-rotting-oranges](1036-rotting-oranges) |
 | 1128 | 1128-remove-all-adjacent-duplicates-in-string | [1128-remove-all-adjacent-duplicates-in-string](1128-remove-all-adjacent-duplicates-in-string) |
+| 1135 | 1135-customers-who-bought-all-products | [1135-customers-who-bought-all-products](1135-customers-who-bought-all-products) |
 | 1146 | 1146-greatest-common-divisor-of-strings | [1146-greatest-common-divisor-of-strings](1146-greatest-common-divisor-of-strings) |
 | 1153 | 1153-product-sales-analysis-i | [1153-product-sales-analysis-i](1153-product-sales-analysis-i) |
 | 1155 | 1155-product-sales-analysis-iii | [1155-product-sales-analysis-iii](1155-product-sales-analysis-iii) |
@@ -132,6 +133,7 @@
 | 1801 | 1801-average-time-of-process-per-machine | [1801-average-time-of-process-per-machine](1801-average-time-of-process-per-machine) |
 | 1802 | 1802-number-of-students-unable-to-eat-lunch | [1802-number-of-students-unable-to-eat-lunch](1802-number-of-students-unable-to-eat-lunch) |
 | 1833 | 1833-find-the-highest-altitude | [1833-find-the-highest-altitude](1833-find-the-highest-altitude) |
+| 1882 | 1882-the-number-of-employees-which-report-to-each-employee | [1882-the-number-of-employees-which-report-to-each-employee](1882-the-number-of-employees-which-report-to-each-employee) |
 | 1894 | 1894-merge-strings-alternately | [1894-merge-strings-alternately](1894-merge-strings-alternately) |
 | 1908 | 1908-recyclable-and-low-fat-products | [1908-recyclable-and-low-fat-products](1908-recyclable-and-low-fat-products) |
 | 1916 | 1916-find-center-of-star-graph | [1916-find-center-of-star-graph](1916-find-center-of-star-graph) |
