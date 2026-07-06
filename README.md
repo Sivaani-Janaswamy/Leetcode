@@ -87,6 +87,7 @@
 | 570 | 570-managers-with-at-least-5-direct-reports | [570-managers-with-at-least-5-direct-reports](570-managers-with-at-least-5-direct-reports) |
 | 577 | 577-employee-bonus | [577-employee-bonus](577-employee-bonus) |
 | 605 | 605-can-place-flowers | [605-can-place-flowers](605-can-place-flowers) |
+| 610 | 610-triangle-judgement | [610-triangle-judgement](610-triangle-judgement) |
 | 643 | 643-maximum-average-subarray-i | [643-maximum-average-subarray-i](643-maximum-average-subarray-i) |
 | 649 | 649-dota2-senate | [649-dota2-senate](649-dota2-senate) |
 | 682 | 682-baseball-game | [682-baseball-game](682-baseball-game) |
