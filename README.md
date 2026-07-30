@@ -24,6 +24,7 @@
 | 55 | 55-jump-game | [55-jump-game](55-jump-game) |
 | 58 | 58-length-of-last-word | [58-length-of-last-word](58-length-of-last-word) |
 | 62 | 62-unique-paths | [62-unique-paths](62-unique-paths) |
+| 64 | 64-minimum-path-sum | [64-minimum-path-sum](64-minimum-path-sum) |
 | 66 | 66-plus-one | [66-plus-one](66-plus-one) |
 | 67 | 67-add-binary | [67-add-binary](67-add-binary) |
 | 69 | 69-sqrtx | [69-sqrtx](69-sqrtx) |
