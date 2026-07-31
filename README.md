@@ -104,6 +104,7 @@
 | 904 | 904-leaf-similar-trees | [904-leaf-similar-trees](904-leaf-similar-trees) |
 | 908 | 908-middle-of-the-linked-list | [908-middle-of-the-linked-list](908-middle-of-the-linked-list) |
 | 937 | 937-online-stock-span | [937-online-stock-span](937-online-stock-span) |
+| 967 | 967-minimum-falling-path-sum | [967-minimum-falling-path-sum](967-minimum-falling-path-sum) |
 | 969 | 969-number-of-recent-calls | [969-number-of-recent-calls](969-number-of-recent-calls) |
 | 1005 | 1005-univalued-binary-tree | [1005-univalued-binary-tree](1005-univalued-binary-tree) |
 | 1013 | 1013-fibonacci-number | [1013-fibonacci-number](1013-fibonacci-number) |
