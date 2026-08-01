@@ -67,6 +67,7 @@
 | 206 | 206-reverse-linked-list | [206-reverse-linked-list](206-reverse-linked-list) |
 | 217 | 217-contains-duplicate | [217-contains-duplicate](217-contains-duplicate) |
 | 219 | 219-contains-duplicate-ii | [219-contains-duplicate-ii](219-contains-duplicate-ii) |
+| 221 | 221-maximal-square | [221-maximal-square](221-maximal-square) |
 | 222 | 222-count-complete-tree-nodes | [222-count-complete-tree-nodes](222-count-complete-tree-nodes) |
 | 225 | 225-implement-stack-using-queues | [225-implement-stack-using-queues](225-implement-stack-using-queues) |
 | 226 | 226-invert-binary-tree | [226-invert-binary-tree](226-invert-binary-tree) |
