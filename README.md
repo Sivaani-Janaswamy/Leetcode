@@ -75,6 +75,7 @@
 | 225 | 225-implement-stack-using-queues | [225-implement-stack-using-queues](225-implement-stack-using-queues) |
 | 226 | 226-invert-binary-tree | [226-invert-binary-tree](226-invert-binary-tree) |
 | 238 | 238-product-of-array-except-self | [238-product-of-array-except-self](238-product-of-array-except-self) |
+| 242 | 242-valid-anagram | [242-valid-anagram](242-valid-anagram) |
 | 257 | 257-binary-tree-paths | [257-binary-tree-paths](257-binary-tree-paths) |
 | 268 | 268-missing-number | [268-missing-number](268-missing-number) |
 | 283 | 283-move-zeroes | [283-move-zeroes](283-move-zeroes) |
