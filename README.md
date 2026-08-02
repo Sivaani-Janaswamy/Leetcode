@@ -78,6 +78,7 @@
 | 257 | 257-binary-tree-paths | [257-binary-tree-paths](257-binary-tree-paths) |
 | 268 | 268-missing-number | [268-missing-number](268-missing-number) |
 | 283 | 283-move-zeroes | [283-move-zeroes](283-move-zeroes) |
+| 300 | 300-longest-increasing-subsequence | [300-longest-increasing-subsequence](300-longest-increasing-subsequence) |
 | 328 | 328-odd-even-linked-list | [328-odd-even-linked-list](328-odd-even-linked-list) |
 | 334 | 334-increasing-triplet-subsequence | [334-increasing-triplet-subsequence](334-increasing-triplet-subsequence) |
 | 338 | 338-counting-bits | [338-counting-bits](338-counting-bits) |
