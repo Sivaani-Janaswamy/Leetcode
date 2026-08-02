@@ -45,6 +45,7 @@
 | 121 | 121-best-time-to-buy-and-sell-stock | [121-best-time-to-buy-and-sell-stock](121-best-time-to-buy-and-sell-stock) |
 | 122 | 122-best-time-to-buy-and-sell-stock-ii | [122-best-time-to-buy-and-sell-stock-ii](122-best-time-to-buy-and-sell-stock-ii) |
 | 136 | 136-single-number | [136-single-number](136-single-number) |
+| 139 | 139-word-break | [139-word-break](139-word-break) |
 | 141 | 141-linked-list-cycle | [141-linked-list-cycle](141-linked-list-cycle) |
 | 143 | 143-reorder-list | [143-reorder-list](143-reorder-list) |
 | 144 | 144-binary-tree-preorder-traversal | [144-binary-tree-preorder-traversal](144-binary-tree-preorder-traversal) |
