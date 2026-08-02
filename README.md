@@ -90,6 +90,7 @@
 | 435 | 435-non-overlapping-intervals | [435-non-overlapping-intervals](435-non-overlapping-intervals) |
 | 443 | 443-string-compression | [443-string-compression](443-string-compression) |
 | 448 | 448-find-all-numbers-disappeared-in-an-array | [448-find-all-numbers-disappeared-in-an-array](448-find-all-numbers-disappeared-in-an-array) |
+| 496 | 496-next-greater-element-i | [496-next-greater-element-i](496-next-greater-element-i) |
 | 543 | 543-diameter-of-binary-tree | [543-diameter-of-binary-tree](543-diameter-of-binary-tree) |
 | 547 | 547-number-of-provinces | [547-number-of-provinces](547-number-of-provinces) |
 | 570 | 570-managers-with-at-least-5-direct-reports | [570-managers-with-at-least-5-direct-reports](570-managers-with-at-least-5-direct-reports) |
