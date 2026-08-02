@@ -94,6 +94,7 @@
 | 543 | 543-diameter-of-binary-tree | [543-diameter-of-binary-tree](543-diameter-of-binary-tree) |
 | 547 | 547-number-of-provinces | [547-number-of-provinces](547-number-of-provinces) |
 | 570 | 570-managers-with-at-least-5-direct-reports | [570-managers-with-at-least-5-direct-reports](570-managers-with-at-least-5-direct-reports) |
+| 572 | 572-subtree-of-another-tree | [572-subtree-of-another-tree](572-subtree-of-another-tree) |
 | 577 | 577-employee-bonus | [577-employee-bonus](577-employee-bonus) |
 | 605 | 605-can-place-flowers | [605-can-place-flowers](605-can-place-flowers) |
 | 610 | 610-triangle-judgement | [610-triangle-judgement](610-triangle-judgement) |
