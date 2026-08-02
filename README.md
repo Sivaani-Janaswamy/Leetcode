@@ -104,6 +104,7 @@
 | 739 | 739-daily-temperatures | [739-daily-temperatures](739-daily-temperatures) |
 | 747 | 747-min-cost-climbing-stairs | [747-min-cost-climbing-stairs](747-min-cost-climbing-stairs) |
 | 783 | 783-search-in-a-binary-search-tree | [783-search-in-a-binary-search-tree](783-search-in-a-binary-search-tree) |
+| 789 | 789-kth-largest-element-in-a-stream | [789-kth-largest-element-in-a-stream](789-kth-largest-element-in-a-stream) |
 | 813 | 813-all-paths-from-source-to-target | [813-all-paths-from-source-to-target](813-all-paths-from-source-to-target) |
 | 860 | 860-design-circular-queue | [860-design-circular-queue](860-design-circular-queue) |
 | 871 | 871-keys-and-rooms | [871-keys-and-rooms](871-keys-and-rooms) |
