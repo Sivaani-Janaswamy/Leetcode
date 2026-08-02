@@ -121,6 +121,7 @@
 | 1161 | 1161-project-employees-i | [1161-project-employees-i](1161-project-employees-i) |
 | 1182 | 1182-game-play-analysis-iv | [1182-game-play-analysis-iv](1182-game-play-analysis-iv) |
 | 1236 | 1236-n-th-tribonacci-number | [1236-n-th-tribonacci-number](1236-n-th-tribonacci-number) |
+| 1250 | 1250-longest-common-subsequence | [1250-longest-common-subsequence](1250-longest-common-subsequence) |
 | 1258 | 1258-article-views-i | [1258-article-views-i](1258-article-views-i) |
 | 1292 | 1292-immediate-food-delivery-ii | [1292-immediate-food-delivery-ii](1292-immediate-food-delivery-ii) |
 | 1319 | 1319-unique-number-of-occurrences | [1319-unique-number-of-occurrences](1319-unique-number-of-occurrences) |
