@@ -155,6 +155,7 @@
 | 1908 | 1908-recyclable-and-low-fat-products | [1908-recyclable-and-low-fat-products](1908-recyclable-and-low-fat-products) |
 | 1916 | 1916-find-center-of-star-graph | [1916-find-center-of-star-graph](1916-find-center-of-star-graph) |
 | 1942 | 1942-primary-department-for-each-employee | [1942-primary-department-for-each-employee](1942-primary-department-for-each-employee) |
+| 2038 | 2038-nearest-exit-from-entrance-in-maze | [2038-nearest-exit-from-entrance-in-maze](2038-nearest-exit-from-entrance-in-maze) |
 | 2087 | 2087-confirmation-rate | [2087-confirmation-rate](2087-confirmation-rate) |
 | 2121 | 2121-find-if-path-exists-in-graph | [2121-find-if-path-exists-in-graph](2121-find-if-path-exists-in-graph) |
 | 2195 | 2195-time-needed-to-buy-tickets | [2195-time-needed-to-buy-tickets](2195-time-needed-to-buy-tickets) |
